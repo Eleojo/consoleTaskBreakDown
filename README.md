@@ -1,1 +1,2 @@
-# Wee2 task_solution_BanK_App
+# A Simple BanK_App
+Allows you to Deposit Withdraw and Transerer
